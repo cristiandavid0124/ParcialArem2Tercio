@@ -54,3 +54,12 @@ binary search
 Proceso en la nube 
 
 ![image](https://github.com/user-attachments/assets/caee1acd-ce27-4607-9b12-9f1da3774c3f)
+
+
+
+![image](https://github.com/user-attachments/assets/352375c6-c329-46c2-9878-03e2cf90f6d6)
+
+
+![image](https://github.com/user-attachments/assets/56621cc1-a266-444c-bc72-446551276f97)
+
+
