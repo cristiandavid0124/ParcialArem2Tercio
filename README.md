@@ -60,6 +60,11 @@ Proceso en la nube
 ![image](https://github.com/user-attachments/assets/352375c6-c329-46c2-9878-03e2cf90f6d6)
 
 
+instale java y maven en ambas maquinas 
+
+![image](https://github.com/user-attachments/assets/e9f6c1e9-019a-42b8-8713-4ee1d2d4e5e1)
+
 ![image](https://github.com/user-attachments/assets/56621cc1-a266-444c-bc72-446551276f97)
+me falto crear la ultima instancia 
 
 
