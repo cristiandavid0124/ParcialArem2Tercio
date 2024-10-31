@@ -47,3 +47,10 @@ binary search
 
 
 ![image](https://github.com/user-attachments/assets/9ae88b5b-4d01-4881-bf3c-cb91b50d6297)
+
+
+
+
+Proceso en la nube 
+
+![image](https://github.com/user-attachments/assets/caee1acd-ce27-4607-9b12-9f1da3774c3f)
